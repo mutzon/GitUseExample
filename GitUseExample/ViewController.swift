@@ -13,8 +13,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
     }
 
 
+    @IBAction func gitButton(_ sender: Any) {
+        print("Dette er en GIT tutorial")
+    }
+    
+    
 }
 
