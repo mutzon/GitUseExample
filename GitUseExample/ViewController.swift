@@ -19,6 +19,7 @@ class ViewController: UIViewController {
 
     @IBAction func gitButton(_ sender: Any) {
         print("Dette er en GIT tutorial")
+        
     }
     
     
